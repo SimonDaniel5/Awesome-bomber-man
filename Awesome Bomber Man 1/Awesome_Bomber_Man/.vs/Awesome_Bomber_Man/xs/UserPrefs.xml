@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B349313F-7B4B-7A5D-456D-5FFC54C87EA6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnerScript.cs">
+    <Files>
+      <File FileName="Assets/PlayerScript.cs" Line="46" Column="24" />
+      <File FileName="Assets/Scripts/SpawnerScript.cs" Line="22" Column="32" />
+      <File FileName="Assets/Scripts/CollectorScript.cs" Line="12" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Awesome_Bomber_Man" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SpawnerScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cf8f0ea1-1412-4200-a670-e6ab83a10ec9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
